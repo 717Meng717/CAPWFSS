@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+# 原始数据与结果不进入公开仓库
+data/
+datasets/
+results/
+outputs/
+reports/
+*.xlsx
+*.xls
+*.csv
+*.json
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+*.pkl
